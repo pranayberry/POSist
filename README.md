@@ -1,1 +1,1 @@
-# POSist
+# POSist coding assesment round solution.
