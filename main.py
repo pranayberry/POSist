@@ -163,7 +163,7 @@ _Tree.insertRight(RightNode)
 currentNodeNumber+=1
 LeftNode_Child1 = Tree(buildNode(6,genesisId,LeftNode.getNode().getNodeId(),LeftNode.getNode().getNodeNumber(),currentNodeNumber))
 currentNodeNumber+=1
-LeftNode_Child2 = Tree(buildNode(3,genesisId,LeftNode.getNode().getNodeId(),LeftNode.getNode().getNodeNumber(),currentNodeNumber))
+LeftNode_Child2 = Tree(buildNode(4,genesisId,LeftNode.getNode().getNodeId(),LeftNode.getNode().getNodeNumber(),currentNodeNumber))
 currentNodeNumber+=1
 LeftNode.getNode().setChildReferenceNodeId([LeftNode_Child1.getNode().getNodeId(),LeftNode_Child2.getNode().getNodeId()])
 
